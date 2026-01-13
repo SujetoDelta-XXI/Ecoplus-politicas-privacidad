@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Política de Privacidad de EcoPlus</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; padding: 24px; line-height: 1.6; color: #222; }
+    h1 { font-size: 24px; margin: 0 0 12px; }
+    h2 { font-size: 18px; margin: 24px 0 8px; }
+    .muted { color: #666; font-style: italic; }
+    a { color: #0b5cff; }
+    .container { max-width: 820px; margin: 0 auto; }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Política de Privacidad de EcoPlus</h1>
+    <p class="muted">Última actualización: 29 de Diciembre de 2025</p>
+
+    <h2>1. Introducción</h2>
+    <p>Bienvenido a EcoPlus. Respetamos su privacidad y nos comprometemos a proteger sus datos personales. Esta política de privacidad le informará sobre cómo cuidamos sus datos personales cuando visita nuestra aplicación y le informará sobre sus derechos de privacidad y cómo la ley lo protege.</p>
+
+    <h2>2. Datos que recopilamos</h2>
+    <p>Podemos recopilar, usar, almacenar y transferir diferentes tipos de datos personales sobre usted, que hemos agrupado de la siguiente manera:</p>
+    <ul>
+      <li><strong>Datos de Identidad:</strong> incluye nombre de usuario.</li>
+      <li><strong>Datos de Contacto:</strong> incluye dirección de correo electrónico.</li>
+      <li><strong>Datos Financieros:</strong> incluye información sobre sus transacciones y categorías (almacenados localmente y sincronizados de forma segura).</li>
+      <li><strong>Datos Técnicos:</strong> incluye dirección IP, sus datos de inicio de sesión, tipo y versión del navegador, configuración de zona horaria y ubicación, tipos y versiones de complementos del navegador, sistema operativo y plataforma y otras tecnologías en los dispositivos que utiliza para acceder a esta aplicación.</li>
+    </ul>
+
+    <h2>3. Cómo usamos sus datos</h2>
+    <p>Solo usaremos sus datos personales cuando la ley lo permita. Más comúnmente, usaremos sus datos personales en las siguientes circunstancias:</p>
+    <ul>
+      <li>Donde necesitemos realizar el contrato que estamos a punto de celebrar o que hemos celebrado con usted.</li>
+      <li>Donde sea necesario para nuestros intereses legítimos (o los de un tercero) y sus intereses y derechos fundamentales no anulen esos intereses.</li>
+      <li>Donde necesitemos cumplir con una obligación legal o reglamentaria.</li>
+    </ul>
+
+    <h2>4. Publicidad (AdMob)</h2>
+    <p>Utilizamos Google AdMob para mostrar anuncios en nuestra aplicación. Google AdMob puede usar identificadores de publicidad móvil y otras tecnologías para recopilar datos sobre su dispositivo y su uso de nuestra aplicación para mostrar anuncios que sean relevantes para sus intereses.</p>
+    <p>Para obtener más información sobre cómo Google utiliza los datos, visite: <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">https://policies.google.com/technologies/partner-sites</a></p>
+
+    <h2>5. Seguridad de los datos</h2>
+    <p>Hemos implementado medidas de seguridad adecuadas para evitar que sus datos personales se pierdan, utilicen o accedan de forma no autorizada, alteren o divulguen accidentalmente.</p>
+
+    <h2>6. Contacto</h2>
+    <p>Si tiene alguna pregunta sobre esta política de privacidad o nuestras prácticas de privacidad, contáctenos en: <a href="mailto:soporte@ecoplus.app">soporte@ecoplus.app</a></p>
+  </main>
+</body>
+</html>
